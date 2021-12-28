@@ -52,7 +52,7 @@ const SLi = styled.li`
 const SI = styled.i`
     color: black;
     font-size: 1.5rem;
-    padding-right: 2rem;
+    padding-right: 1rem;
 `;
 const STwitter = styled(SI)`
  color: #0055FF;
