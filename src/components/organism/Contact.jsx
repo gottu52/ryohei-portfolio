@@ -8,10 +8,10 @@ export const Contact = () => {
             <SContainer>
                 <STitle>Contact</STitle>
                 <SUl>
-                    <SLi><SI className="fas fa-envelope"></SI>Email  :  ryohei846@ezweb.ne.jp</SLi>
-                    <SLi><SI className="fas fa-phone-alt"></SI>Tell  :  080-9386-2635</SLi>
-                    <SLi><STwitter className="fab fa-twitter-square"></STwitter>Twitter  :  @ryohei846</SLi>
-                    <SLi><SI className="fab fa-github"></SI>Github : https://github.com/gottu52</SLi>
+                    <SLi><SI className="fas fa-envelope"></SI>ryohei846@ezweb.ne.jp</SLi>
+                    <SLi><SI className="fas fa-phone-alt"></SI>080-9386-2635</SLi>
+                    <SLi><STwitter className="fab fa-twitter-square"></STwitter> @ryohei846</SLi>
+                    <SLi><SI className="fab fa-github"></SI>https://github.com/gottu52</SLi>
                 </SUl>
             </SContainer>
             <SFooter>
