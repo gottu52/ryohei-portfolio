@@ -25,7 +25,7 @@ export const Header = () => {
 
 const SHeader = styled.section`
     width: 100vw;
-    height: 120px;
+    height: 80px;
     position: fixed;
     z-index: 2;
 `;
@@ -42,14 +42,14 @@ const SLogo = styled.a`
     font-family: 'Vujahday Script', cursive;
     display: block;
     position: relative;
-    top: 25px;
+    top: 10px;
     cursor: pointer;
 `;
 const SI = styled.i`
     font-size: 50px;
     position: absolute;
     right: 50px;
-    top: 35px;
+    top: 20px;
     color: white;
     cursor: pointer;
 `;
