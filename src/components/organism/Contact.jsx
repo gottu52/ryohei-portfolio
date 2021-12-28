@@ -41,7 +41,7 @@ const STitle = styled.h2`
     margin: 0;
 `;
 const SUl = styled.ul`
-    padding: 10px 35px;
+    padding: 20px;
 `;
 const SLi = styled.li`
     font-size: 1.2rem;
