@@ -27,7 +27,7 @@ const SHero = styled.section`
 const STitle = styled.h1`
     padding-top: 150px;
     margin: 0 0 4rem 0;
-    font-size: 5rem;
+    font-size: 3.5rem;
     font-family: 'Vujahday Script', cursive;
 `;
 const Windmill = keyframes`
@@ -41,14 +41,14 @@ const Windmill = keyframes`
 const SImgContainer = styled.div`
     display: flex;
     flex-wrap: wrap;
-    width: 320px;
+    width: 280px;
     margin: 0 auto;
     animation: ${Windmill} infinite 20s linear;
 `;
 const SImg = styled.img`
   margin: 5px;
-  width: 150px; 
-  height: 150px; 
+  width: 120px; 
+  height: 120px; 
   box-shadow: 0 0 3rem 0 rgba(0, 0, 0, .5);
 `;
 const SImgMorning = styled(SImg)`

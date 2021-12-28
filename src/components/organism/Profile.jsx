@@ -42,7 +42,7 @@ const SContainer = styled.div`
     border-radius: 8px;
 `;
 const STitle = styled.h2`
-    font-size: 5rem;
+    font-size: 4rem;
     font-family: 'Vujahday Script', cursive;
     text-align: center;
     margin: 0;
@@ -60,7 +60,6 @@ const SUl = styled.ul`
     padding: 10px 35px;
 `;
 const SLi = styled.li`
-    font-size: 1.2rem;
     font-weight: bold;
     color: gray;
 `;
