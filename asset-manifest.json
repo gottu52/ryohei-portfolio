@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/ryohei-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/ryohei-portfolio/static/js/main.3a0b9775.js",
+    "main.css": "/ryohei-portfolio/static/css/main.a1d7a19f.css",
+    "main.js": "/ryohei-portfolio/static/js/main.75b38baf.js",
     "static/js/787.b649e2ea.chunk.js": "/ryohei-portfolio/static/js/787.b649e2ea.chunk.js",
-    "static/media/logo.svg": "/ryohei-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/noon.jpg": "/ryohei-portfolio/static/media/noon.7cb8b3c70debdb1ebbae.jpg",
+    "static/media/contact-background.jpg": "/ryohei-portfolio/static/media/contact-background.c9cd869c9b1b36479acb.jpg",
+    "static/media/morning.jpg": "/ryohei-portfolio/static/media/morning.16285200248868e17f32.jpg",
+    "static/media/profile-background.jpg": "/ryohei-portfolio/static/media/profile-background.5f7b20fc0c3738f40e07.jpg",
+    "static/media/icon.png": "/ryohei-portfolio/static/media/icon.2b17e7bd69a7fd31caa5.png",
+    "static/media/evening.jpg": "/ryohei-portfolio/static/media/evening.6fae79d2a98b45200134.jpg",
+    "static/media/hero-background.jpg": "/ryohei-portfolio/static/media/hero-background.be501c0832fffad209f9.jpg",
+    "static/media/night.jpg": "/ryohei-portfolio/static/media/night.2b13893cc0f7b900dce6.jpg",
     "index.html": "/ryohei-portfolio/index.html",
-    "main.073c9b0a.css.map": "/ryohei-portfolio/static/css/main.073c9b0a.css.map",
-    "main.3a0b9775.js.map": "/ryohei-portfolio/static/js/main.3a0b9775.js.map",
+    "main.a1d7a19f.css.map": "/ryohei-portfolio/static/css/main.a1d7a19f.css.map",
+    "main.75b38baf.js.map": "/ryohei-portfolio/static/js/main.75b38baf.js.map",
     "787.b649e2ea.chunk.js.map": "/ryohei-portfolio/static/js/787.b649e2ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3a0b9775.js"
+    "static/css/main.a1d7a19f.css",
+    "static/js/main.75b38baf.js"
   ]
 }
