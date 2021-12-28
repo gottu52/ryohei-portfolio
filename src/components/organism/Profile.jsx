@@ -30,10 +30,7 @@ export const Profile = () => {
 }
 
 const SProfile = styled.section`
-    height: 100vh;
     background-image: url(${bgImg});
-    background-size: cover;
-    position: relative;
 `;
 const SContainer = styled.div`
     position: absolute;
@@ -65,4 +62,5 @@ const SUl = styled.ul`
 const SLi = styled.li`
     font-size: 1.2rem;
     font-weight: bold;
+    color: gray;
 `;

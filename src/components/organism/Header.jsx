@@ -10,7 +10,7 @@ export const Header = () => {
     return(
         <SHeader>
             <SHeaderBody>
-                <SLogo>RYOHEI</SLogo>
+                <SLogo href="#hero">RYOHEI</SLogo>
                 <SI className="fas fa-bars" onClick={onClickMenuOpen}></SI>    
             </SHeaderBody>
             <SUl className="menu">

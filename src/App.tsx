@@ -1,6 +1,7 @@
 import { Header } from "./components/organism/Header"
 import { Hero } from "./components/organism/Hero"
 import { Profile } from "./components/organism/Profile";
+import { Contact } from "./components/organism/Contact";
 import './App.css';
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
         <Header />
         <Hero />
         <Profile />
+        <Contact />
     </div>
   );
 }

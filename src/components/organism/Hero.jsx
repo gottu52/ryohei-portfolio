@@ -21,13 +21,11 @@ export const Hero = () => {
 }
 
 const SHero = styled.section`
-    height: 90vh;
     background-image: url(${bgImg});
-    background-size: cover;
     text-align: center;
-    padding-top: 120px;
 `;
 const STitle = styled.h1`
+    padding-top: 150px;
     margin: 0 0 4rem 0;
     font-size: 5rem;
     font-family: 'Vujahday Script', cursive;
