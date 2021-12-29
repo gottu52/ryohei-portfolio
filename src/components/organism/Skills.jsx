@@ -41,11 +41,11 @@ export const Skills = () => {
                     <SwiperSlide>
                         <h3>HTML,CSS</h3>
                         <div style={{ color: "#FFCC00" }}>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="far fa-star"></i>   
+                            <i className="fas fa-star"></i>
+                            <i className="fas fa-star"></i>
+                            <i className="fas fa-star"></i>
+                            <i className="fas fa-star"></i>
+                            <i className="far fa-star"></i>   
                         </div>
                         <p>
                             HTMLによる基本的なサイトのコーディングや、
@@ -56,11 +56,11 @@ export const Skills = () => {
                     <SwiperSlide>
                         <h3>JS,React,TypeScript</h3>
                         <div style={{ color: "#FFCC00" }}>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="far fa-star"></i>
-                            <i class="far fa-star"></i>    
+                            <i className="fas fa-star"></i>
+                            <i className="fas fa-star"></i>
+                            <i className="fas fa-star"></i>
+                            <i className="far fa-star"></i>
+                            <i className="far fa-star"></i>    
                         </div>
                         <p>
                             JavaScriptによる静的な処理の実装、
@@ -73,11 +73,11 @@ export const Skills = () => {
                     <SwiperSlide>
                         <h3>Photoshop,Figma</h3>
                         <div style={{ color: "#FFCC00" }}>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="far fa-star"></i>
-                            <i class="far fa-star"></i>
-                            <i class="far fa-star"></i>    
+                            <i className="fas fa-star"></i>
+                            <i className="fas fa-star"></i>
+                            <i className="far fa-star"></i>
+                            <i className="far fa-star"></i>
+                            <i className="far fa-star"></i>    
                         </div>
                         <p>
                             簡単な画像の加工やロゴの作成を行うことができます。
