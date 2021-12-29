@@ -35,7 +35,7 @@ const SHeaderBody = styled.div`
     background-color: black;
     opacity: .5;
 `;
-const SLogo = styled.a`
+const SLogo = styled(Link)`
     font-size: 3rem;
     width: 200px;
     color: white;
