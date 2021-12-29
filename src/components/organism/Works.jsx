@@ -35,7 +35,6 @@ export const Works = () => {
     width: "70%",
     height: "120px",
     border: "solid 1px black",
-    
   }
   const textStyle = {
     fontWeight: "bold",
