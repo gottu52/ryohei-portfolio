@@ -15,7 +15,7 @@ export const Works = () => {
     backgroundImage: `url(${bgImg})`
   }
   const swiperStyle ={
-    height: "65vh",
+    height: "50vh",
     width: "60vw",
     backgroundColor: "white",
     borderRadius: "8px",

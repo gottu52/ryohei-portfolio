@@ -25,7 +25,7 @@ const SHero = styled.section`
     text-align: center;
 `;
 const STitle = styled.h1`
-    padding-top: 100px;
+    padding-top: 120px;
     margin: 0 0 30px 0;
     font-size: 3.5rem;
     font-family: 'Vujahday Script', cursive;
@@ -42,7 +42,7 @@ const SImgContainer = styled.div`
     display: flex;
     flex-wrap: wrap;
     width: 200px;
-    margin: 0 auto;
+    margin: 80px auto;
     animation: ${Windmill} infinite 20s linear;
 `;
 const SImg = styled.img`
