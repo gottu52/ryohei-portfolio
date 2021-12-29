@@ -25,8 +25,8 @@ const SHero = styled.section`
     text-align: center;
 `;
 const STitle = styled.h1`
-    padding-top: 150px;
-    margin: 0 0 4rem 0;
+    padding-top: 100px;
+    margin: 0 0 30px 0;
     font-size: 3.5rem;
     font-family: 'Vujahday Script', cursive;
 `;
@@ -41,14 +41,14 @@ const Windmill = keyframes`
 const SImgContainer = styled.div`
     display: flex;
     flex-wrap: wrap;
-    width: 280px;
+    width: 200px;
     margin: 0 auto;
     animation: ${Windmill} infinite 20s linear;
 `;
 const SImg = styled.img`
   margin: 5px;
-  width: 120px; 
-  height: 120px; 
+  width: 90px; 
+  height: 90px; 
   box-shadow: 0 0 3rem 0 rgba(0, 0, 0, .5);
 `;
 const SImgMorning = styled(SImg)`

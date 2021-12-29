@@ -33,13 +33,13 @@ export const Works = () => {
   }
   const imgStyle = {
     width: "70%",
-    height: "150px",
+    height: "120px",
     border: "solid 1px black",
     
   }
   const textStyle = {
-    fontSize: "1.5rem",
-    fontWeight: "bold"
+    fontWeight: "bold",
+    margin: "8px"
   }
 
 

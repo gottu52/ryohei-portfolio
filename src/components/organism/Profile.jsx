@@ -17,9 +17,9 @@ export const Profile = () => {
                         <SLi>法政大学スポーツ健康科学部卒業</SLi>
                         <br />
                         <SLi>
-                            卒業後、現場監督業に従事するも、<br />
+                            卒業後、現場監督業に従事するも、
                             プログラミングに興味を持ち、
-                            プログラマーとして生きていくことを決意。<br />
+                            プログラマーとして生きていくことを決意。
                             現在、フロントエンジニアを目指して就職活動中
                         </SLi>
                     </SUl>
@@ -52,14 +52,14 @@ const SFlex = styled.div`
     flex-direction: column;
 `;
 const SIcon = styled.img`
-    width: 15rem;
-    height: 15rem;
+    width: 10rem;
+    height: 10rem;
     margin: 0 auto;
 `;
 const SUl = styled.ul`
     padding: 10px 35px;
 `;
 const SLi = styled.li`
-    font-weight: bold;
+    font-size: .8rem;
     color: gray;
 `;

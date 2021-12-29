@@ -32,27 +32,26 @@ const SContainer = styled.div`
     width: 80vw;
     background-color: white;
     border-radius: 8px;
-    padding: 30px 0;
+    padding-top: 30px;
 `;
 const STitle = styled.h2`
-    font-size: 5rem;
+    font-size: 3.5rem;
     font-family: 'Vujahday Script', curive;
     text-align: center;
     margin: 0;
 `;
 const SUl = styled.ul`
     padding: 20px;
+    margin: 0;
 `;
 const SLi = styled.li`
-    font-size: 1.2rem;
-    font-weight: bold;
-    padding: 10px;
+    padding: 10px 0;
     color: gray;
 `;
 const SI = styled.i`
     color: black;
     font-size: 1.5rem;
-    padding-right: 1rem;
+    padding-right: 10px;
 `;
 const STwitter = styled(SI)`
  color: #0055FF;
