@@ -54,19 +54,19 @@ const SI = styled.i`
     padding-right: 10px;
 `;
 const STwitter = styled(SI)`
- color: #0055FF;
+    color: #0055FF;
 `;
 const SFooter = styled.footer`
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: 100px;
+    height: 50px;
     background-color: gray;
     color: white;
-    font-size: 1.5rem;
     text-align: center;
+    font-size: .8rem;
 `;
 const SP = styled.p`
-    line-height: 100px;
+    line-height: 50px;
     margin: 0;
 `;

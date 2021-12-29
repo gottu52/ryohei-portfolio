@@ -15,11 +15,11 @@ export const Works = () => {
     backgroundImage: `url(${bgImg})`
   }
   const swiperStyle ={
-    height: "55vh",
+    height: "65vh",
     width: "60vw",
     backgroundColor: "white",
     borderRadius: "8px",
-    padding: "30px 8px",
+    padding: "8px",
     position: "absolute",
     top: "50%",
     left: "50%",
@@ -48,9 +48,10 @@ export const Works = () => {
       <div style={swiperStyle}>
         <h2 style={titleStyle}>Works</h2>
         <Swiper
-          modules={ Pagination }
+          modules={ [Pagination] }
           pagination={{ clickable: true }}
           slidesPerView={1}
+          style={{height: "75%"}}
         >
           <SwiperSlide>
             <img src={RunningImg} alt="running" style={imgStyle}/>
