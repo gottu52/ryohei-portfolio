@@ -46,10 +46,10 @@ const SLogo = styled.a`
     cursor: pointer;
 `;
 const SI = styled.i`
-    font-size: 50px;
+    font-size: 30px;
     position: absolute;
-    right: 50px;
-    top: 20px;
+    right: 30px;
+    top: 25px;
     color: white;
     cursor: pointer;
 `;
