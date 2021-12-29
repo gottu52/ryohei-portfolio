@@ -29,7 +29,7 @@ export const Skills = () => {
       }
 
     return(
-        <section id="skill" style={skillStyle}>
+        <section id="skills" style={skillStyle}>
             <div style={swiperStyle}>
                 <h2 style={titleStyle}>Skills</h2>
                 <Swiper

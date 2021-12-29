@@ -1,5 +1,5 @@
 import styled, { keyframes } from "styled-components";
-// import { Link } from 'react-scroll';
+import { Link } from 'react-scroll';
 
 export const Header = () => {
 
@@ -15,10 +15,10 @@ export const Header = () => {
                 <SI className="fas fa-bars" onClick={onClickMenuOpen}></SI>    
             </SHeaderBody>
             <SUl className="menu">
-                <SLi><SA href="#profile">Profile</SA></SLi>
-                <SLi><SA href="#skill">Skill</SA></SLi>
-                <SLi><SA href="#works">Works</SA></SLi>
-                <SLi><SA href="#contact">Contact</SA></SLi>
+                <SLi><SLink to="profile" smooth={true} style={{color: "white"}}>Profile</SLink></SLi>
+                <SLi><SLink to="skills" smooth={true} style={{color: "white"}}>Skills</SLink></SLi>
+                <SLi><SLink to="works" smooth={true} style={{color: "white"}}>Works</SLink></SLi>
+                <SLi><SLink to="contact" smooth={true} style={{color: "white"}}>Contact</SLink></SLi>
             </SUl>
         </SHeader>
     )
@@ -79,7 +79,7 @@ const SLi = styled.li`
     width: 100vw;
     padding: 10px;
 `;
-const SA = styled.a`
+const SLink = styled(Link)`
     font-size: 30px;
     color: white;
     cursor: pointer;
