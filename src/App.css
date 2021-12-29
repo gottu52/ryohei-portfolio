@@ -6,9 +6,10 @@ li {
   list-style: none;
 }
 .App {
-  /* scroll-snap-type: y mandatory; */
+  scroll-snap-type: y mandatory;
   overflow: auto;
   height: 100vh; 
+  scroll-behavior: smooth;
 }
 section {
   height: 100vh;
