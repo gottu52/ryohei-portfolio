@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/ryohei-portfolio/static/css/main.cf5422e6.css",
-    "main.js": "/ryohei-portfolio/static/js/main.bf2b4933.js",
+    "main.css": "/ryohei-portfolio/static/css/main.7a06028b.css",
+    "main.js": "/ryohei-portfolio/static/js/main.57442a63.js",
     "static/js/787.b649e2ea.chunk.js": "/ryohei-portfolio/static/js/787.b649e2ea.chunk.js",
     "static/media/RunningMethodImage.png": "/ryohei-portfolio/static/media/RunningMethodImage.3a2da436c9d9fa73c90f.png",
     "static/media/HairSalonImage.png": "/ryohei-portfolio/static/media/HairSalonImage.bf10236eb90b2b413844.png",
     "static/media/GymImage.png": "/ryohei-portfolio/static/media/GymImage.fa5ddad6e2fb3bb1976e.png",
     "static/media/noon.jpg": "/ryohei-portfolio/static/media/noon.7cb8b3c70debdb1ebbae.jpg",
     "static/media/works-background.jpg": "/ryohei-portfolio/static/media/works-background.c88d3cfef7479f34988b.jpg",
+    "static/media/skill-background.jpg": "/ryohei-portfolio/static/media/skill-background.3743ec6371fff57a7229.jpg",
     "static/media/contact-background.jpg": "/ryohei-portfolio/static/media/contact-background.c9cd869c9b1b36479acb.jpg",
     "static/media/morning.jpg": "/ryohei-portfolio/static/media/morning.16285200248868e17f32.jpg",
     "static/media/profile-background.jpg": "/ryohei-portfolio/static/media/profile-background.5f7b20fc0c3738f40e07.jpg",
@@ -17,12 +18,12 @@
     "static/media/TodoImage.png": "/ryohei-portfolio/static/media/TodoImage.f395d25536a4cb2538bc.png",
     "static/media/night.jpg": "/ryohei-portfolio/static/media/night.2b13893cc0f7b900dce6.jpg",
     "index.html": "/ryohei-portfolio/index.html",
-    "main.cf5422e6.css.map": "/ryohei-portfolio/static/css/main.cf5422e6.css.map",
-    "main.bf2b4933.js.map": "/ryohei-portfolio/static/js/main.bf2b4933.js.map",
+    "main.7a06028b.css.map": "/ryohei-portfolio/static/css/main.7a06028b.css.map",
+    "main.57442a63.js.map": "/ryohei-portfolio/static/js/main.57442a63.js.map",
     "787.b649e2ea.chunk.js.map": "/ryohei-portfolio/static/js/787.b649e2ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf5422e6.css",
-    "static/js/main.bf2b4933.js"
+    "static/css/main.7a06028b.css",
+    "static/js/main.57442a63.js"
   ]
 }
