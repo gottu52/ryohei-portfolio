@@ -9,7 +9,7 @@ import night from "../../images/clover/night.jpg"
 export const Hero = () => {
     return(
     <SHero id="hero">
-        <STitle>RYOHEI PORTFOLIO</STitle>
+        <STitle>RYOHEI'S PORTFOLIO</STitle>
         <SImgContainer id="heroImage-container">
           <SImgMorning src={morning} alt="morning" />
           <SImgNoon src={noon} alt="noon" />
