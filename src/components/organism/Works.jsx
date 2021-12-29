@@ -1,5 +1,7 @@
+import { Pagination } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
+import 'swiper/css/pagination';
 
 import bgImg from "../../images/background/works-background.jpg";
 import RunningImg from "../../images/works/RunningMethodImage.png";
@@ -31,7 +33,7 @@ export const Works = () => {
   }
   const imgStyle = {
     width: "70%",
-    height: "190px",
+    height: "150px",
     border: "solid 1px black",
     
   }
@@ -46,6 +48,8 @@ export const Works = () => {
       <div style={swiperStyle}>
         <h2 style={titleStyle}>Works</h2>
         <Swiper
+          modules={ Pagination }
+          pagination={{ clickable: true }}
           slidesPerView={1}
         >
           <SwiperSlide>
