@@ -5,7 +5,7 @@ import icon from "../../images/icon.png";
 
 export const Profile = () => {
     return(
-        <SProfile>
+        <SProfile id="profile">
             <SContainer>
                 <STitle>Profile</STitle>
                 <SFlex>

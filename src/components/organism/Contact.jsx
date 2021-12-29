@@ -4,7 +4,7 @@ import bgImg from "../../images/background/contact-background.jpg";
 
 export const Contact = () => {
     return(
-        <SContact>
+        <SContact id="contact">
             <SContainer>
                 <STitle>Contact</STitle>
                 <SUl>

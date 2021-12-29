@@ -14,10 +14,10 @@ export const Header = () => {
                 <SI className="fas fa-bars" onClick={onClickMenuOpen}></SI>    
             </SHeaderBody>
             <SUl className="menu">
-                <SLi><SA>Profile</SA></SLi>
-                <SLi><SA>Skill</SA></SLi>
-                <SLi><SA>Work</SA></SLi>
-                <SLi><SA>Contact</SA></SLi>
+                <SLi><SA href="#profile">Profile</SA></SLi>
+                <SLi><SA href="#skill">Skill</SA></SLi>
+                <SLi><SA href="#works">Works</SA></SLi>
+                <SLi><SA href="#contact">Contact</SA></SLi>
             </SUl>
         </SHeader>
     )

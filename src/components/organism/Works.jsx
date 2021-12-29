@@ -43,7 +43,7 @@ export const Works = () => {
 
 
   return(
-    <section style={worksStyle}>
+    <section id="works" style={worksStyle}>
       <div style={swiperStyle}>
         <h2 style={titleStyle}>Works</h2>
         <Swiper
