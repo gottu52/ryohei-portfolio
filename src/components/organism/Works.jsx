@@ -16,7 +16,7 @@ export const Works = () => {
   }
   const swiperStyle ={
     height: "50vh",
-    width: "60vw",
+    width: "80vw",
     backgroundColor: "white",
     borderRadius: "8px",
     padding: "8px",
