@@ -54,28 +54,36 @@ export const Works = () => {
           style={{height: "75%"}}
         >
           <SwiperSlide>
-            <img src={RunningImg} alt="running" style={imgStyle}/>
+            <a href="https://gottu52.github.io/running-method/" target="_blank" rel="noopener noreferrer">
+              <img src={RunningImg} alt="running" style={imgStyle}/>
+            </a>
             <p style={textStyle}>Running-method</p>
             <p style={textStyle}>製作日数 : 4日</p>
             <p style={textStyle}>言語 : HTML,CSS,JS</p>
           </SwiperSlide>
 
           <SwiperSlide>
-            <img src={HairSalonImg} alt="HairSalon" style={imgStyle}/>
+            <a href="https://gottu52.github.io/hair-salon/" target="_blank" rel="noopener noreferrer">
+              <img src={HairSalonImg} alt="HairSalon" style={imgStyle}/>
+            </a>
             <p style={textStyle}>Hair-salon</p>
             <p style={textStyle}>製作日数 : 2日</p>
             <p style={textStyle}>言語 : HTML,CSS,JS</p>
           </SwiperSlide>
 
           <SwiperSlide>
-            <img src={GymImg} alt="gym" style={imgStyle}/>
+            <a href="https://gottu52.github.io/gold-gym/" target="_blank" rel="noopener noreferrer">
+              <img src={GymImg} alt="gym" style={imgStyle}/>
+            </a>
             <p style={textStyle}>Gold-gym</p>
             <p style={textStyle}>製作日数 : 3日</p>
             <p style={textStyle}>言語 : HTML,CSS,JS</p>
           </SwiperSlide>
 
           <SwiperSlide>
-            <img src={TodoImg} alt="todo" style={imgStyle}/>
+            <a href="https://gottu52.github.io/Todo-App/" target="_blank" rel="noopener noreferrer">
+              <img src={TodoImg} alt="todo" style={imgStyle}/>
+            </a>
             <p style={textStyle}>Todo-app</p>
             <p style={textStyle}>製作日数 : 1日</p>
             <p style={textStyle}>言語 : HTML,CSS,React</p>
