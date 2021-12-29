@@ -1,7 +1,7 @@
 import { Header } from "./components/organism/Header"
 import { Hero } from "./components/organism/Hero"
 import { Profile } from "./components/organism/Profile";
-import { Skill } from "./components/organism/Skill";
+import { Skills } from "./components/organism/Skills";
 import { Works } from "./components/organism/Works";
 import { Contact } from "./components/organism/Contact";
 import './App.css';
@@ -12,7 +12,7 @@ function App() {
         <Header />
         <Hero />
         <Profile />
-        <Skill />
+        <Skills />
         <Works />
         <Contact />  
     </div>

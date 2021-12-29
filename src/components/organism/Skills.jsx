@@ -5,7 +5,7 @@ import 'swiper/css/pagination';
 
 import bgImg from "../../images/background/skill-background.jpg";
 
-export const Skill = () => {
+export const Skills = () => {
 
     const skillStyle = {
         backgroundImage: `url(${bgImg})`
@@ -31,7 +31,7 @@ export const Skill = () => {
     return(
         <section id="skill" style={skillStyle}>
             <div style={swiperStyle}>
-                <h2 style={titleStyle}>Skill</h2>
+                <h2 style={titleStyle}>Skills</h2>
                 <Swiper
                     modules={ [Pagination] }
                     pagination={{ clickable: true }}
