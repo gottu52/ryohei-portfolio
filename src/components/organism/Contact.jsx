@@ -33,25 +33,42 @@ const SContainer = styled.div`
     background-color: white;
     border-radius: 8px;
     padding-top: 30px;
+    @media (min-width: 600px) {
+        height: 60vh;   
+    }
 `;
 const STitle = styled.h2`
     font-size: 3.5rem;
     font-family: 'Vujahday Script', curive;
     text-align: center;
     margin: 0;
+    @media (min-width: 600px) {
+        font-size: 5rem;   
+    }
 `;
 const SUl = styled.ul`
     padding: 20px;
     margin: 0;
+    @media (min-width: 600px) {
+        width: 40vw;
+        margin: 0 auto;   
+    }
 `;
 const SLi = styled.li`
     padding: 10px 0;
     color: gray;
+    @media (min-width: 600px) {
+        font-size: 40px;   
+    }
 `;
 const SI = styled.i`
     color: black;
     font-size: 1.5rem;
     padding-right: 10px;
+    @media (min-width: 600px) {
+        font-size: 2.5rem;
+        padding-right: 80px;   
+    }
 `;
 const STwitter = styled(SI)`
     color: #0055FF;
@@ -65,6 +82,11 @@ const SFooter = styled.footer`
     color: white;
     text-align: center;
     font-size: .8rem;
+    @media (min-width: 600px) {
+        height: 80px;
+        font-size: 1.5rem;   
+        padding-top: 20px;
+    }
 `;
 const SP = styled.p`
     line-height: 50px;

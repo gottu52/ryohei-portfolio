@@ -40,21 +40,36 @@ const SContainer = styled.div`
     width: 80vw;
     background-color: white;
     border-radius: 8px;
+    @media (min-width: 600px) {
+     height: 60vh;   
+    }
 `;
 const STitle = styled.h2`
     font-size: 4rem;
     font-family: 'Vujahday Script', cursive;
     text-align: center;
     margin: 0;
+    @media (min-width: 600px) {
+        font-size: 5rem;
+    }
 `;
 const SFlex = styled.div`
     display: flex;
     flex-direction: column;
+    @media (min-width: 600px) {
+        flex-direction: row;
+        padding: 10px 50px;
+    }
 `;
 const SIcon = styled.img`
     width: 10rem;
     height: 10rem;
     margin: 0 auto;
+    @media (min-width: 600px) {
+        width: 15rem;
+        height: 15rem;   
+        padding: 30px 30px 0 30px;
+    }
 `;
 const SUl = styled.ul`
     padding: 10px 35px;
@@ -62,4 +77,7 @@ const SUl = styled.ul`
 const SLi = styled.li`
     font-size: .8rem;
     color: gray;
+    @media (min-width: 600px) {
+        font-size: 25px;
+    }
 `;
