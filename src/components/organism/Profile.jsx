@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 import bgImg from "../../images/background/profile-background.jpg";
-import icon from "../../images/icon.png";
+import icon from "../../images/icon/icon.png";
 
 export const Profile = () => {
     return(
