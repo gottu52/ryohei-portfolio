@@ -4,9 +4,6 @@
     }
 
     /* skills */
-    .skillTitle {
-        font-size: 5rem;
-    }
     .skillWrapper {
         width: 40vw;
         font-size: 2rem;
@@ -20,13 +17,14 @@
 
     /* works */
     .workImg {
-        width: 40vw;
-        height: 100%;
-    }
-    .workImg img {
-        height: 200px;
+        width: 55vw;
+        height: 50vh;
+        padding: 30px 30px 30px 100px;
     }
     .workWrapper {
-        width: 600px;
+        width: 50vw;
+        font-size: 30px;
+        padding: 50px 0 30px 100px;
+        text-align: left;
     }
 }

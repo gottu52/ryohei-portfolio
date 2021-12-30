@@ -13,8 +13,8 @@ export const Skills = () => {
         backgroundImage: `url(${bgImg})`
       }
       const swiperStyle ={
-        height: "50vh",
-        width: "80vw",
+        height: "50%",
+        width: "80%",
         backgroundColor: "white",
         borderRadius: "8px",
         padding: "8px 16px",
@@ -33,7 +33,7 @@ export const Skills = () => {
     return(
         <section id="skills" style={skillStyle}>
             <div style={swiperStyle}>
-                <h2 className="skillTitle" style={titleStyle}>Skills</h2>
+                <h2 style={titleStyle}>Skills</h2>
                 <Swiper
                     modules={ [Pagination] }
                     pagination={{ clickable: true }}
@@ -71,7 +71,7 @@ export const Skills = () => {
                         <p className="skillText">
                             JavaScriptによる静的な処理の実装、
                             Reactによるコンポーネント分割や
-                            TypeScriptによる簡単な型定義を行うことができます。
+                            TypeScriptによる型定義を行うことができます。
                             現在Firebase等のバックエンド側との連携について勉強中です。
                         </p>
                     </SwiperSlide>  

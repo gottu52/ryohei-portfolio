@@ -34,7 +34,8 @@ const SContainer = styled.div`
     border-radius: 8px;
     padding-top: 30px;
     @media (min-width: 700px) {
-        height: 60vh;   
+        height: 60vh;  
+        width: 50vw; 
     }
 `;
 const STitle = styled.h2`
