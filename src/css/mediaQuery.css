@@ -17,4 +17,16 @@
         text-align: left;
         padding: 30px;
     }
+
+    /* works */
+    .workImg {
+        width: 40vw;
+        height: 100%;
+    }
+    .workImg img {
+        height: 200px;
+    }
+    .workWrapper {
+        width: 600px;
+    }
 }
