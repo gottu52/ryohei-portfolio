@@ -4,7 +4,7 @@ import { Profile } from "./components/organism/Profile";
 import { Skills } from "./components/organism/Skills";
 import { Works } from "./components/organism/Works";
 import { Contact } from "./components/organism/Contact";
-import './App.css';
+import './css/App.css';
 
 function App() {
   return (

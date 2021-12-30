@@ -29,7 +29,7 @@ const STitle = styled.h1`
     margin: 0 0 30px 0;
     font-size: 3.5rem;
     font-family: 'Vujahday Script', cursive;
-    @media (min-width: 600px) {
+    @media (min-width: 700px) {
         font-size: 5rem;
     }
 `;
@@ -47,7 +47,7 @@ const SImgContainer = styled.div`
     width: 200px;
     margin: 80px auto;
     animation: ${Windmill} infinite 20s linear;
-    @media (min-width: 600px) {
+    @media (min-width: 700px) {
         width: 300px;   
     }
 `;
@@ -56,7 +56,7 @@ const SImg = styled.img`
   width: 90px; 
   height: 90px; 
   box-shadow: 0 0 3rem 0 rgba(0, 0, 0, .5);
-  @media (min-width: 600px) {
+  @media (min-width: 700px) {
     width: 140px;
     height: 140px;       
 }

@@ -35,7 +35,7 @@ const SHeader = styled.section`
     height: 60px;
     position: fixed;
     z-index: 2;
-    @media (min-width: 600px) {
+    @media (min-width: 700px) {
         height: 100px;
     }
 `;
@@ -56,7 +56,7 @@ const SLogo = styled(Link)`
     top: 10px;
     cursor: pointer;
     margin: auto auto auto 0;
-    @media (min-width: 600px) {
+    @media (min-width: 700px) {
         font-size: 3rem;
         margin-left: 50px;
     }
@@ -64,7 +64,7 @@ const SLogo = styled(Link)`
 const SUl = styled.ul`
     display: none;
     margin: auto 20px auto auto;
-    @media (min-width: 600px) {
+    @media (min-width: 700px) {
         display: flex;
         margin-right: 100px;
     }
@@ -80,7 +80,7 @@ const SI = styled.i`
     color: white;
     cursor: pointer;
     display: block;
-    @media (min-width: 600px) {
+    @media (min-width: 700px) {
         display: none;
     }
 `;
