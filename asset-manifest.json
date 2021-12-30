@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/ryohei-portfolio/static/css/main.3772e8d8.css",
-    "main.js": "/ryohei-portfolio/static/js/main.f687e91b.js",
+    "main.css": "/ryohei-portfolio/static/css/main.97e610bf.css",
+    "main.js": "/ryohei-portfolio/static/js/main.ab82ba7d.js",
     "static/js/787.b649e2ea.chunk.js": "/ryohei-portfolio/static/js/787.b649e2ea.chunk.js",
+    "static/media/works-background.jpg": "/ryohei-portfolio/static/media/works-background.929687860ac07b7bdd2b.jpg",
+    "static/media/skill-background.jpg": "/ryohei-portfolio/static/media/skill-background.76cdbd635ce89445db43.jpg",
     "static/media/RunningMethodImage.png": "/ryohei-portfolio/static/media/RunningMethodImage.3a2da436c9d9fa73c90f.png",
     "static/media/HairSalonImage.png": "/ryohei-portfolio/static/media/HairSalonImage.bf10236eb90b2b413844.png",
     "static/media/GymImage.png": "/ryohei-portfolio/static/media/GymImage.fa5ddad6e2fb3bb1976e.png",
+    "static/media/contact-background.jpg": "/ryohei-portfolio/static/media/contact-background.01f832c358a10ba4b1dc.jpg",
+    "static/media/profile-background.jpg": "/ryohei-portfolio/static/media/profile-background.62a2c170109560f3745b.jpg",
     "static/media/noon.jpg": "/ryohei-portfolio/static/media/noon.7cb8b3c70debdb1ebbae.jpg",
-    "static/media/works-background.jpg": "/ryohei-portfolio/static/media/works-background.c88d3cfef7479f34988b.jpg",
-    "static/media/skill-background.jpg": "/ryohei-portfolio/static/media/skill-background.3743ec6371fff57a7229.jpg",
-    "static/media/contact-background.jpg": "/ryohei-portfolio/static/media/contact-background.c9cd869c9b1b36479acb.jpg",
+    "static/media/hero-background.jpg": "/ryohei-portfolio/static/media/hero-background.96df34d8d33a48d5635e.jpg",
     "static/media/morning.jpg": "/ryohei-portfolio/static/media/morning.16285200248868e17f32.jpg",
-    "static/media/profile-background.jpg": "/ryohei-portfolio/static/media/profile-background.5f7b20fc0c3738f40e07.jpg",
     "static/media/icon.png": "/ryohei-portfolio/static/media/icon.2b17e7bd69a7fd31caa5.png",
     "static/media/evening.jpg": "/ryohei-portfolio/static/media/evening.6fae79d2a98b45200134.jpg",
-    "static/media/hero-background.jpg": "/ryohei-portfolio/static/media/hero-background.be501c0832fffad209f9.jpg",
     "static/media/TodoImage.png": "/ryohei-portfolio/static/media/TodoImage.f395d25536a4cb2538bc.png",
     "static/media/night.jpg": "/ryohei-portfolio/static/media/night.2b13893cc0f7b900dce6.jpg",
     "index.html": "/ryohei-portfolio/index.html",
-    "main.3772e8d8.css.map": "/ryohei-portfolio/static/css/main.3772e8d8.css.map",
-    "main.f687e91b.js.map": "/ryohei-portfolio/static/js/main.f687e91b.js.map",
+    "main.97e610bf.css.map": "/ryohei-portfolio/static/css/main.97e610bf.css.map",
+    "main.ab82ba7d.js.map": "/ryohei-portfolio/static/js/main.ab82ba7d.js.map",
     "787.b649e2ea.chunk.js.map": "/ryohei-portfolio/static/js/787.b649e2ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3772e8d8.css",
-    "static/js/main.f687e91b.js"
+    "static/css/main.97e610bf.css",
+    "static/js/main.ab82ba7d.js"
   ]
 }
