@@ -59,7 +59,7 @@ const SLi = styled.li`
     padding: 10px 0;
     color: gray;
     @media (min-width: 700px) {
-        font-size: 40px;   
+        font-size: 35px;   
     }
 `;
 const SI = styled.i`
