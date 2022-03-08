@@ -73,12 +73,12 @@ const SIcon = styled.img`
     }
 `;
 const SUl = styled.ul`
-    padding: 10px 35px;
+    padding: 0 35px 10px 35px;
 `;
 const SLi = styled.li`
     font-size: .8rem;
     color: gray;
     @media (min-width: 700px) {
-        font-size: 25px;
+        font-size: 21px;
     }
 `;

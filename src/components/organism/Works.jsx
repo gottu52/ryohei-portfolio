@@ -9,6 +9,7 @@ import HairSalonImg from "../../images/works/HairSalonImage.png";
 import GymImg from "../../images/works/GymImage.png";
 import TodoImg from "../../images/works/TodoImage.png";
 import ThisSiteImg from "../../images/works/ThisSiteImage.png";
+import EcImg from "../../images/works/EcImage.png";
 import "../../css/mediaQuery.css";
 
 export const Works = () => {
@@ -105,6 +106,17 @@ export const Works = () => {
             <div className="workWrapper">
               <p style={textStyle}>This-site</p>
               <p style={textStyle}>製作日数 : 2日</p>
+              <p style={textStyle}>言語 : HTML,CSS,React</p>
+            </div>
+          </SwiperSlide>
+
+          <SwiperSlide className='slide'>
+            <a className="workImg" href="https://gottu52.github.io/ec-site/" target="_blank" rel="noopener noreferrer">
+              <img src={EcImg} alt="ThisSite" style={imgStyle}/>
+            </a>
+            <div className="workWrapper">
+              <p style={textStyle}>Ec-site</p>
+              <p style={textStyle}>製作日数 : 25日</p>
               <p style={textStyle}>言語 : HTML,CSS,React</p>
             </div>
           </SwiperSlide>
