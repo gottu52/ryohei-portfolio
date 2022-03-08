@@ -46,12 +46,12 @@ const SContainer = styled.div`
     }
 `;
 const STitle = styled.h2`
-    font-size: 4.5rem;
+    font-size: 4rem;
     font-family: 'Vujahday Script', cursive;
     text-align: center;
     margin: 0;
     @media (min-width: 700px) {
-        font-size: 5rem;
+        font-size: 4rem;
     }
 `;
 const SFlex = styled.div`
@@ -79,6 +79,6 @@ const SLi = styled.li`
     font-size: .8rem;
     color: gray;
     @media (min-width: 700px) {
-        font-size: 21px;
+        font-size: 18px;
     }
 `;
