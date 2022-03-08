@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ryohei-portfolio/static/css/main.97e610bf.css",
-    "main.js": "/ryohei-portfolio/static/js/main.2dccb57b.js",
+    "main.css": "/ryohei-portfolio/static/css/main.79a3cb1a.css",
+    "main.js": "/ryohei-portfolio/static/js/main.6fc75f7b.js",
     "static/js/787.b649e2ea.chunk.js": "/ryohei-portfolio/static/js/787.b649e2ea.chunk.js",
     "static/media/works-background.jpg": "/ryohei-portfolio/static/media/works-background.929687860ac07b7bdd2b.jpg",
     "static/media/EcImage.png": "/ryohei-portfolio/static/media/EcImage.22998efb8b17d878ee14.png",
@@ -20,12 +20,12 @@
     "static/media/TodoImage.png": "/ryohei-portfolio/static/media/TodoImage.f395d25536a4cb2538bc.png",
     "static/media/night.jpg": "/ryohei-portfolio/static/media/night.2b13893cc0f7b900dce6.jpg",
     "index.html": "/ryohei-portfolio/index.html",
-    "main.97e610bf.css.map": "/ryohei-portfolio/static/css/main.97e610bf.css.map",
-    "main.2dccb57b.js.map": "/ryohei-portfolio/static/js/main.2dccb57b.js.map",
+    "main.79a3cb1a.css.map": "/ryohei-portfolio/static/css/main.79a3cb1a.css.map",
+    "main.6fc75f7b.js.map": "/ryohei-portfolio/static/js/main.6fc75f7b.js.map",
     "787.b649e2ea.chunk.js.map": "/ryohei-portfolio/static/js/787.b649e2ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97e610bf.css",
-    "static/js/main.2dccb57b.js"
+    "static/css/main.79a3cb1a.css",
+    "static/js/main.6fc75f7b.js"
   ]
 }
