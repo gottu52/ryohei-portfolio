@@ -51,7 +51,7 @@ const STitle = styled.h2`
     text-align: center;
     margin: 0;
     @media (min-width: 700px) {
-        font-size: 4rem;
+        font-size: 5rem;
     }
 `;
 const SFlex = styled.div`
@@ -79,6 +79,6 @@ const SLi = styled.li`
     font-size: .8rem;
     color: gray;
     @media (min-width: 700px) {
-        font-size: 18px;
+        font-size: 21px;
     }
 `;
