@@ -17,7 +17,7 @@ export const Skills = () => {
         width: "80%",
         backgroundColor: "white",
         borderRadius: "8px",
-        padding: "8px 16px",
+        padding: "16px 24px",
         position: "absolute",
         top: "50%",
         left: "50%",
