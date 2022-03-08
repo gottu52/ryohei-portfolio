@@ -1,7 +1,3 @@
-.skillText {
-    font-size: 25px;
-}
-
 @media (min-width: 700px) {
     .slide {
         display: flex;
@@ -14,7 +10,7 @@
         padding: 30px;
     }
     .skillText {
-        font-size: 1.8rem;
+        font-size: 1.5rem;
         text-align: left;
         padding: 30px;
     }
